@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AquaMarket</string>
+    <string name="getStartedBtn">GET STARTED</string>
+
+    <!-- String Values -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signup">Sign-Up</string>
+    <string name="signin">Sign-In</string>
+    <string name="signup2">Sign-Up</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Open Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="FullName">Full Name</string>
+    <string name="Username">Username</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="ReEnterPassword">Re-enter Password</string>
+    <string name="EmailOrUsername">E-mail or Username</string>
+    <string name="SigninPassword">Password</string>
+    <string name="Search">Search</string>
+    <string name="SearchHelp">Search Help</string>
+    <string name="skipBtn"><![CDATA[SKIP >>>]]></string>
+    <string name="NextBtn">NEXT</string>
+    <string name="HomePopular">Popular Items</string>
+    <string name="HomeCategories">Categories</string>
+    <string name="Logout">Logout</string>
+</resources>
